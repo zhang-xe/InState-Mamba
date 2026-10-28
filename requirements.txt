@@ -1,0 +1,15 @@
+# Python 3.9. Install the CUDA-enabled PyTorch build first; see README.md.
+numpy==1.23.5
+opencv-python==4.11.0.86
+timm==0.6.12
+scipy==1.13.1
+Pillow==11.3.0
+einops==0.8.2
+easydict==1.13
+fvcore==0.1.5.post20221221
+tqdm==4.67.3
+tensorboardX==2.6.5
+packaging==26.0
+ninja==1.13.0
+setuptools==80.9.0
+wheel==0.45.1

@@ -1,0 +1,33 @@
+# Python and compiled extensions
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.o
+*.a
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+
+# Data, weights and experiment output
+datasets/
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+*.pkl
+*.zip
+runs/
+outputs/
+log_*/
+events.out.tfevents.*
+
+# Local editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
